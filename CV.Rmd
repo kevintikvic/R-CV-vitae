@@ -1,16 +1,16 @@
 ---
-name: Lorena Abad
+name: Kevin Tikvic
 position: "Researching the Environment through Geospatial Technologies"
 address: |
-         | Schillerstraße 30, 5020 Salzburg, Austria
-profilepic: lore.jpg
-phone: +43 662 8044 7582 
-email: "lorena.abad@plus.ac.at"
-twitter: loreabad6
-github: loreabad6
-linkedin: lorena-abad
-researchgate: Lorena_Abad2
-orcid: 0000-0003-0554-734X
+         | Eulenweg 27, 8048 Zurich, Switzerland
+profilepic: portrait_new.jpg
+phone: +41 76 518 22 47 
+email: "kevintikvic@gmail.com"
+# twitter: kevintikvic
+github: kevintikvic
+linkedin: kevintikvic
+# researchgate: Lorena_Abad2
+# orcid: 0000-0003-0554-734X
 headcolor: 009ACD
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
